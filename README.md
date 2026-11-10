@@ -202,4 +202,4 @@ This repository serves as the official landing page for Hibernate. The software 
 **Get the most recent version of Hibernate today!**
 
 ---
-**Last updated:** 2026-11-09 20:26:50 UTC
+**Last updated:** 2026-11-10 03:12:12 UTC
